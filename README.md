@@ -5,7 +5,7 @@
 
 
 1. Download the `install.sh` from Brother/BrGenPrintML2 
-(`wget https://raw.githubusercontent.com/teodorcucu/cups-drivers/master/Brother/BrGenPrintML2/install.sh`)
+(`wget https://raw.githubusercontent.com/the-real-30d0r/cups-drivers/master/Brother/BrGenPrintML2/install.sh`)
 
 2. Set the right to permission in order to run the shell script.
 3. Run the Script `sudo bash install.sh`
